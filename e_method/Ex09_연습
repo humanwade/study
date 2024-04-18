@@ -1,0 +1,35 @@
+[1]
+
+import java.util.*;
+
+static int substract(int a, int b){
+	뺄셈을 하고
+	return 값;
+	
+}
+
+
+[2]
+
+
+static void gretting (int a){
+
+}
+
+
+[3]
+static void loopMethod (int a){
+}
+
+
+[4]
+static double circle(double r){
+원의 넓이 계산 
+	return 넓이
+}
+
+
+[5]
+static int square(int a, int b){
+
+}
